@@ -1,5 +1,4 @@
-# LPDDNet
-Lightweight PCB Defect Detection Network
+# LPDDNet (Lightweight PCB Defect Detection Network)
 
 Paper Title:
 
